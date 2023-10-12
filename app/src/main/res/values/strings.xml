@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Stations</string>
+    <string name="profile_name">Muhammad Hadi Royan Firdaus</string>
+    <string name="profile_email">hadiroyan3@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+</resources>
